@@ -1,3 +1,2 @@
-# Proyects
-Proyectos de carrera.
-Analisis inmboliario
+# Proyect I
+Primer Análisis de datos y modelo de Machine Learning simple.
