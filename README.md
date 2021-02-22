@@ -1,2 +1,2 @@
 # Proyect I
-Primer Análisis de datos y modelo de Machine Learning simple.
+Análisis de datos y  primer modelo de Machine Learning simple.
